@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <title>redacTUM</title>
+  <rect width="128" height="128" rx="28" fill="#3070B3"/>
+  <path d="M36 22h40l20 20v64a4 4 0 0 1-4 4H36a4 4 0 0 1-4-4V26a4 4 0 0 1 4-4z" fill="#fff"/>
+  <path d="M76 22v16a4 4 0 0 0 4 4h16z" fill="#C9DAEE"/>
+  <rect x="42" y="52" width="32" height="5" rx="2.5" fill="#C9DAEE"/>
+  <rect x="42" y="64" width="44" height="11" rx="2" fill="#111"/>
+  <rect x="42" y="82" width="40" height="5" rx="2.5" fill="#C9DAEE"/>
+  <rect x="42" y="94" width="22" height="5" rx="2.5" fill="#C9DAEE"/>
+</svg>
